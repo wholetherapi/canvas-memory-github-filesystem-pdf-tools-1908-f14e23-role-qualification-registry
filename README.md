@@ -1,2 +1,2 @@
-# crestline-training-register-smoke
-Smoke test repository for generator benchmark
+# smoke update probe
+Testing whether content creation is available.
